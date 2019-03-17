@@ -16,7 +16,6 @@ public class PracticeA {
                 result.put(str, 1);
             }
         }
-
         return result;
     }
 }
